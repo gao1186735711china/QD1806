@@ -1,0 +1,168 @@
+#div1 {
+  width: 180px;
+  height: 100px;
+  background-color: red; }
+
+body {
+  background: #fff; }
+
+#advertisingHeader {
+  background-color: #FFCFD2; }
+
+#advertising {
+  display: block;
+  margin: 0 auto;
+  width: 820px;
+  height: 30px;
+  background: url(../images/820x30-legao-0107._cb459093380_.jpg) no-repeat; }
+
+#header {
+  overflow: hidden;
+  width: 1240px;
+  margin: 0 auto;
+  background: url(../images/gz_ads_370x39._cb459080026_.jpg) right 8px no-repeat; }
+
+#shixiang {
+  text-decoration: underline;
+  position: absolute;
+  left: 9%;
+  top: 68px;
+  font-size: 10px;
+  color: #48a3c6; }
+
+#logo {
+  display: block;
+  float: left;
+  width: 105px;
+  height: 45px;
+  background: url(../images/global-sprite-v1._cb330175697_.png) 2px -113px no-repeat;
+  margin-left: 28px;
+  margin-top: 3px; }
+
+#logo a {
+  width: 105px;
+  height: 45px;
+  display: block; }
+
+#select {
+  border: none;
+  border-right: 1px solid #bdbdbd;
+  float: left;
+  outline: none;
+  padding-left: 12px;
+  width: 95px;
+  height: 32px;
+  font-size: 12px;
+  color: #999;
+  background: rgba(0, 0, 0, 0.02); }
+
+#select:hover {
+  background: rgba(0, 0, 0, 0.04); }
+
+#inputSeach {
+  margin: 10px 0 0 70px;
+  height: 32px;
+  border: 1px solid #bdbdbd;
+  float: left;
+  border-radius: 3px; }
+
+#seach {
+  padding-left: 5px;
+  font-size: 18px;
+  float: left;
+  width: 480px;
+  height: 32px;
+  outline: none; }
+
+#btnSeachDiv {
+  float: right;
+  border: none;
+  display: block;
+  width: 38px;
+  height: 32px;
+  background-color: rgba(0, 0, 0, 0.3);
+  transition: all 0.1s; }
+
+#btnSeachDiv:hover {
+  background: rgba(0, 0, 0, 0.05); }
+
+#btnSeach {
+  outline: none;
+  cursor: pointer;
+  border: none;
+  width: 38px;
+  height: 32px;
+  background: url(../images/global-sprite-v1._cb330175697_.png) -31px -284px no-repeat; }
+
+#btnSeach:hover {
+  background: url(../images/global-sprite-v1._cb330175697_.png) -2px -284px no-repeat; }
+
+#nav {
+  background-color: #f0f0f0; }
+
+#nav a {
+  font-size: 12px;
+  color: black;
+  line-height: 14px; }
+
+.style_border {
+  height: 35px;
+  border: 1px solid #f0f0f0;
+  border-radius: 4px;
+  margin-left: 30px;
+  padding: 10px 10px 0; }
+
+.style_border:hover {
+  border: 1px solid #ccc; }
+
+#nav .navWeight {
+  font-weight: 700;
+  font-size: 14px;
+  color: black; }
+
+.nav_style span {
+  display: block;
+  font-size: 12px;
+  line-height: 14px; }
+
+#nav_center {
+  margin-left: 5px;
+  float: left;
+  width: 600px;
+  overflow: hidden;
+  margin-top: 23px; }
+
+#nav_center a {
+  margin-left: 15px;
+  color: #0055aa; }
+
+#nav_center a:hover {
+  color: #ff9900;
+  text-decoration-style: solid;
+  text-decoration: underline; }
+
+.navTop {
+  margin-top: 5px; }
+
+#nav_right {
+  margin-right: 15px; }
+
+#nav_right a {
+  margin-left: 15px; }
+
+.style_border_last {
+  margin-top: 0px;
+  display: block;
+  height: 34px; }
+
+#shoppingCart {
+  position: relative;
+  width: 40px;
+  height: 30px;
+  background: url(../images/amazonuibasecss@variables-beacon_light_1x-27c111afb8bee530ba8a7051ea5de6967f745929._v2_.png)-83px 0px no-repeat; }
+
+#shoppingNum {
+  font-weight: 600;
+  color: orange;
+  position: absolute;
+  left: 15px; }
